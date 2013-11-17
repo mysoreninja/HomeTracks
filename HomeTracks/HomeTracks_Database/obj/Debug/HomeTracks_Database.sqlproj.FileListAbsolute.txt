@@ -1,0 +1,5 @@
+C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\bin\Debug\HomeTracks_Database.dacpac
+C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\bin\Debug\HomeTracks_Database.dll
+C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\bin\Debug\HomeTracks_Database.pdb
+C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\obj\Debug\HomeTracks_Database.dll
+C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\obj\Debug\HomeTracks_Database.pdb
