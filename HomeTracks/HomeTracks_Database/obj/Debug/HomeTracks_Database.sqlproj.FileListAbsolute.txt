@@ -3,3 +3,8 @@ C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\bin\De
 C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\bin\Debug\HomeTracks_Database.pdb
 C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\obj\Debug\HomeTracks_Database.dll
 C:\Users\Kiran\Documents\GitHub\HomeTracks\HomeTracks\HomeTracks_Database\obj\Debug\HomeTracks_Database.pdb
+C:\Personal\Git\HomeTracks\HomeTracks\HomeTracks_Database\bin\Debug\HomeTracks_Database.dacpac
+C:\Personal\Git\HomeTracks\HomeTracks\HomeTracks_Database\bin\Debug\HomeTracks_Database.dll
+C:\Personal\Git\HomeTracks\HomeTracks\HomeTracks_Database\bin\Debug\HomeTracks_Database.pdb
+C:\Personal\Git\HomeTracks\HomeTracks\HomeTracks_Database\obj\Debug\HomeTracks_Database.dll
+C:\Personal\Git\HomeTracks\HomeTracks\HomeTracks_Database\obj\Debug\HomeTracks_Database.pdb
